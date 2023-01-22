@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HamedSiaban
 - 👀 I’m interested in Frontend developing
-- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React projects
 - 📫 How to reach me hamed.mjafari@yahoo.com
 
