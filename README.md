@@ -72,6 +72,6 @@ I specialize in building maintainable frontend architectures, scalable design sy
 
 ## Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/hamedsiaban](https://www.linkedin.com/in/hamedsiaban)
-- 🌐 Portfolio: https://your-portfolio.com
+- 💼 LinkedIn: [https://linkedin.com/in/hamedsiaban](https://www.linkedin.com/in/hamedsiaban)
+- 🌐 Portfolio: [https://hamedsiaban.com](https://hamedsiaban.com/)
 - 📫 Email: hamed.mjafari@yahoo.com
